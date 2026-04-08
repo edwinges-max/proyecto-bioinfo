@@ -1,0 +1,9 @@
+rule all:
+    input:
+        "resultados/exp01/salida.tsv"
+
+rule dummy:
+    output:
+        "resultados/exp01/salida.tsv"
+    shell:
+        "echo 'ok' > {output}"

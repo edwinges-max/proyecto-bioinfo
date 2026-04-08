@@ -1,0 +1,8 @@
+samples:
+  - ejemplo
+
+input_dir: datos-raw
+output_dir: resultados
+
+params:
+  threshold: 0.05
