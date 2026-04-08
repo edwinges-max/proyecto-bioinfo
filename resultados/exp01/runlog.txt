@@ -1,0 +1,8 @@
+fecha: 2026-04-07
+ejecucion: exp01
+entrada: datos-raw/ejemplo.fasta
+comando: python scripts/resumen.py
+config: config/exp01.yaml
+salida: resultados/exp01/salida.tsv
+commit: NA
+observaciones: OK
