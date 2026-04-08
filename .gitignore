@@ -1,0 +1,5 @@
+datos-raw/
+resultados/**
+*.tmp
+__pycache__/
+.env
